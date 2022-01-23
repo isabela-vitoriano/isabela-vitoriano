@@ -24,4 +24,4 @@
 
 :1st_place_medal: [Teste de Perfil de Investidor](https://github.com/isabela-vitoriano/Perfil-de-Investidor)
 
-:2nd_place_medal: [Jogo de Adivinhanção](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
+:2nd_place_medal: [Jogo de Adivinhanção](https://github.com/isabela-vitoriano/Adivinhacao-Dados)
