@@ -1,6 +1,5 @@
 ## Olá, boas vindas! Me apresentando 👋👩
-
-![Meu perfil personalizado no Github](https://i.ibb.co/mzTD9BB/Isabela-Vitoriano-1-1.png?width=1225&height=670)
+![Isabela-Vitoriano-1-1.png](https://i.postimg.cc/vH1M42JY/Isabela-Vitoriano-1-1.png)
 - 🔭 Estudante de Ciências de Dados e Análise de Comportamento, na Unicesumar
 - 🌱 Atualmente me aprofundando em Python e iniciando em SQL
 - 😄 Pronomes: ela/dela
