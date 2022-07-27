@@ -1,11 +1,12 @@
 ## Olá, boas vindas! Me apresentando 👋👩
 ![Isabela-Vitoriano-1-1.png](https://i.postimg.cc/vH1M42JY/Isabela-Vitoriano-1-1.png)
 - 🔭 Estudante de Ciências de Dados e Análise de Comportamento, na Unicesumar
-- 🌱 Atualmente me aprofundando em Python e iniciando em SQL
+- 🌱 Atualmente me aprofundando em Engenharia de Dados
 - 😄 Pronomes: ela/dela
 
 ## Habilidades / Skills 👩‍💻
-#### 🐍 Python
+#### 🐍 Python, Pyspark, Pandas
+#### 🔎 SQL
 #### 📊 Google Data Studio, Google Tag Manager e Google Analytics
 #### 🔮 Gestão de Produto
 #### 🗄  Mapeamento de Processos
