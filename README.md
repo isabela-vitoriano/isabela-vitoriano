@@ -7,6 +7,7 @@
 ## Habilidades / Skills 👩‍💻
 #### 🐍 Python, Pyspark, Pandas
 #### 🔎 SQL
+#### 🪣 AWS
 #### 📊 Google Data Studio, Google Tag Manager e Google Analytics
 #### 🔮 Gestão de Produto
 #### 🗄  Mapeamento de Processos
