@@ -1,6 +1,7 @@
 ## Olá, boas vindas! Me apresentando 👋👩
 ![Isabela-Vitoriano-1-1.png](https://i.postimg.cc/vH1M42JY/Isabela-Vitoriano-1-1.png)
 - 🔭 Estudante de Ciências de Dados e Análise de Comportamento, na Unicesumar
+- 🎓 Estudante de Sistemas de Informação, na Unifacisa
 - 🌱 Atualmente me aprofundando em Engenharia de Dados
 - 😄 Pronomes: ela/dela
 
