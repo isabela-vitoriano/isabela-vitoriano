@@ -1,17 +1,23 @@
-## Olá, boas vindas! Me apresentando 👋👩
-![Isabela-Vitoriano-1-1.png](https://i.postimg.cc/vH1M42JY/Isabela-Vitoriano-1-1.png)
-- 🔭 Estudante de Ciências de Dados e Análise de Comportamento, na Unicesumar
-- 🎓 Estudante de Sistemas de Informação, na Unifacisa
-- 🌱 Atualmente me aprofundando em Engenharia de Dados
-- 😄 Pronomes: ela/dela
+## Olá, boas vindas! Me apresentando 👋🏽👩🏽
+[![Isabela-Vitoriano-2.png](https://i.postimg.cc/85ZY7Kg3/Isabela-Vitoriano-2.png)](https://postimg.cc/qhCwYGRX)
+- 🎓 Estudante de Ciências de Dados e Análise de Comportamento, na Unicesumar
+- 📈 Engenheira de Dados na [Minehr](https://www.minehr.com.br/)
+- 🤗 Pronomes: ela/dela
 
-## Habilidades / Skills 👩‍💻
+## Habilidades 👩🏽‍💻
 #### 🐍 Python, Pyspark, Pandas
-#### 🔎 SQL
 #### 🪣 AWS
-#### 📊 Google Data Studio, Google Tag Manager e Google Analytics
-#### 🔮 Gestão de Produto
-#### 🗄  Mapeamento de Processos
+#### 🔎 API Rest
+#### 🗄  ETL
+#### 💻 Databricks
+
+
+
+## Meus projetos 📈 📊
+
+:1st_place_medal: [Teste de Perfil de Investidor](https://github.com/isabela-vitoriano/Perfil-de-Investidor)
+
+:2nd_place_medal: [Jogo de Adivinhanção](https://github.com/isabela-vitoriano/Adivinhacao-Dados)
 
 ## Como me encontrar 🔎
 
@@ -20,11 +26,3 @@
   <a href = "mailto:isabelavitoriano.ss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://github.com/isabela-vitoriano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-
-## Meus projetos em Ciências de Dados 📈 📊
-
-### Projetos em Python:
-
-:1st_place_medal: [Teste de Perfil de Investidor](https://github.com/isabela-vitoriano/Perfil-de-Investidor)
-
-:2nd_place_medal: [Jogo de Adivinhanção](https://github.com/isabela-vitoriano/Adivinhacao-Dados)
