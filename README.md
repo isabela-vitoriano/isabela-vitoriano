@@ -15,9 +15,7 @@
 
 ## Meus projetos 📈 📊
 
-:1st_place_medal: [Teste de Perfil de Investidor](https://github.com/isabela-vitoriano/Perfil-de-Investidor)
-
-:2nd_place_medal: [Jogo de Adivinhanção](https://github.com/isabela-vitoriano/Adivinhacao-Dados)
+:1st_place_medal: [Web scraping e análise da dados das multas pela PRF](https://github.com/isabela-vitoriano/analise_dados_multas_prf)
 
 ## Como me encontrar 🔎
 
