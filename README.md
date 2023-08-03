@@ -16,7 +16,9 @@
 ## Meus projetos 📈 📊
 
 :1st_place_medal: [Web scraping e análise da dados das multas pela PRF](https://github.com/isabela-vitoriano/analise_dados_multas_prf)
+
 :1st_place_medal: [SQL para análise de pesquisa de percepção de tecnologia](https://github.com/isabela-vitoriano/analise_pesquisa_tech)
+
 :1st_place_medal: [Análise de churn em empresa](https://github.com/isabela-vitoriano/analise_dados_churn)
 
 ## Como me encontrar 🔎
