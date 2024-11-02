@@ -22,7 +22,7 @@
 
 :1st_place_medal: [Análise de churn em empresa](https://github.com/isabela-vitoriano/analise_dados_churn)
 
-:1st_place_medal: [Análise de Dados de Carrinho em Loja Fake](https://github.com/isabela-vitoriano/tratamento-dados-loja-fake)
+:1st_place_medal: [Consumo e Tratamento de Dados de Carrinho em Loja Fake](https://github.com/isabela-vitoriano/tratamento-dados-loja-fake)
 
 ## Como me encontrar 🔎
 
