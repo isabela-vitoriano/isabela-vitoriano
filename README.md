@@ -1,15 +1,16 @@
 ## Olá, boas vindas! Me apresentando 👋🏽👩🏽
 [![Isabela-Vitoriano-2.png](https://i.postimg.cc/85ZY7Kg3/Isabela-Vitoriano-2.png)](https://postimg.cc/qhCwYGRX)
-- 🎓 Estudante de Ciências de Dados e Análise de Comportamento, na Unicesumar
-- 📈 Engenheira de Dados na [Minehr](https://www.minehr.com.br/)
+- 🎓 Graduada em Ciências de Dados e Análise de Comportamento, na Unicesumar
+- 📈 Engenheira de Dados na [Wiz](https://wiz.co/)
 - 🤗 Pronomes: ela/dela
 
 ## Habilidades 👩🏽‍💻
 #### 🐍 Python, Pyspark, Pandas
-#### 🪣 AWS
+#### 🪣 AWS, GCP
 #### 🔎 API Rest
 #### 🗄  ETL
 #### 💻 Databricks
+#### 📊 Big Query
 
 
 
@@ -20,6 +21,8 @@
 :1st_place_medal: [SQL para análise de pesquisa de percepção de tecnologia](https://github.com/isabela-vitoriano/analise_pesquisa_tech)
 
 :1st_place_medal: [Análise de churn em empresa](https://github.com/isabela-vitoriano/analise_dados_churn)
+
+:1st_place_medal: [Análise de Dados de Carrinho em Loja Fake](https://github.com/isabela-vitoriano/tratamento-dados-loja-fake)
 
 ## Como me encontrar 🔎
 
