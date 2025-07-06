@@ -1,7 +1,7 @@
 ## Olá, boas vindas! Me apresentando 👋🏽👩🏽
 [![Isabela-Vitoriano-2.png](https://i.postimg.cc/85ZY7Kg3/Isabela-Vitoriano-2.png)](https://postimg.cc/qhCwYGRX)
-- 🎓 Graduada em Ciências de Dados e Análise de Comportamento, na Unicesumar
-- 📈 Engenheira de Dados na [Wiz](https://wiz.co/)
+- 🎓 Graduada em Ciências de Dados e Análise de Comportamento
+- 📈 Engenheira de Dados na [Enjoei](https://www.linkedin.com/company/enjoei/posts/?feedView=all)
 - 🤗 Pronomes: ela/dela
 
 ## Habilidades 👩🏽‍💻
@@ -11,6 +11,7 @@
 #### 🗄  ETL
 #### 💻 Databricks
 #### 📊 Big Query
+#### ↔️ Airflow
 
 
 
