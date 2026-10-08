@@ -35,7 +35,7 @@ Airflow · Databricks
 Pipelines batch e NRT · ETL · Modelagem de dados · Data Quality · Otimização de queries e tabelas (performance e custo) · Observabilidade
 
 #### 🔌 Ingestão e integração
-APIs REST · Bancos de dados · Arquivos em diversos formatos (planilhas, Parquet, JSON)
+APIs · Bancos de dados · Arquivos em diversos formatos (planilhas, Parquet, JSON)
 
 #### 🔧 Versionamento e metodologias
 Git · GitHub · Scrum · Jira · Basecamp
